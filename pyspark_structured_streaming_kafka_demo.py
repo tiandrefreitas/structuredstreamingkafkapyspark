@@ -86,4 +86,4 @@ if __name__ == "__main__":
 
     trans_detail_write_stream.awaitTermination()
 
-    print("PySpark Structured Streaming with Kafka Demo Application Completed.")
+    print("PySpark Structured Streaming with Kafka Demo Application Completed!")
